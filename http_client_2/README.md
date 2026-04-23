@@ -8,7 +8,7 @@
 
 ***
 
-C++ win, http-client example
+C++ win , http-client example
 
 * LLVM CLang use
 ***
@@ -40,3 +40,9 @@ main.cpp -o main.exe
 ```
 
 ***
+
+### blog
+
+https://zenn.dev/knaka0209/scraps/304215ec3b1f20
+
+
