@@ -41,3 +41,7 @@ main.cpp -o server.exe
 ```
 
 ***
+### blog
+
+https://zenn.dev/knaka0209/scraps/f9fa0c8f3de785
+
