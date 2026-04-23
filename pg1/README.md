@@ -28,4 +28,9 @@ clang++ -std=c++17 -O2 -I./include ^
 -L/prog/postgresql-18.3-2/pgsql/lib -L./lib -llibpq ^
 main.cpp -o main.exe
 ```
+
 ***
+### blog
+
+https://zenn.dev/knaka0209/scraps/a554a8b139db05
+
