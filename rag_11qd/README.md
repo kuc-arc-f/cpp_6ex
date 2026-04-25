@@ -97,4 +97,9 @@ clean:
 ```
 .\main.exe search hello
 ```
+
 ***
+### blog
+
+https://zenn.dev/knaka0209/scraps/23b0810b58207b
+
