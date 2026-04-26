@@ -127,7 +127,7 @@ int main() {
     std::cout << "TODO Server running on http://localhost:8000\n";
     std::cout << "Endpoints:\n"
 //        << "  GET    /todos\n"
-        << "  POST /redis/add /redis/get   \n"
+        << "  POST /redis/add /redis/get   \n";
 
     svr.listen("0.0.0.0", port_no);
     return 0;
